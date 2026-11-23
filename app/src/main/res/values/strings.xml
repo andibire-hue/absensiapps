@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Absensi PJOK</string>
+    <string name="school_name_default">UPTD SDN LOKOJULI</string>
+    <string name="teacher_name_default">Andi Mozes Leavingstone Bire, S.Pd.</string>
+    <string name="subject_name">PJOK</string>
+    <string name="nav_beranda">Beranda</string>
+    <string name="nav_siswa">Siswa</string>
+    <string name="nav_absensi">Absensi</string>
+    <string name="nav_rekap">Rekap</string>
+    <string name="status_belum">BELUM DIABSEN</string>
+    <string name="status_hadir">Hadir</string>
+    <string name="status_sakit">Sakit</string>
+    <string name="status_izin">Izin</string>
+    <string name="status_alpa">Alpa</string>
+</resources>

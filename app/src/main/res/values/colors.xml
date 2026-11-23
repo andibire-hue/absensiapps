@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_primary">#FF0F294A</color>
+    <color name="navy_splash">#FF0F2D4F</color>
+    <color name="navy_status">#FF091B33</color>
+    <color name="emerald_accent">#FF10B981</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

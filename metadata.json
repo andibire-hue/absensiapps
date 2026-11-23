@@ -1,0 +1,6 @@
+{
+  "name": "Absensi PJOK",
+  "description": "Aplikasi pencatatan kehadiran siswa PJOK Kelas 1-6 UPTD SDN LOKOJULI dengan penyimpanan offline SQLite, rekap kehadiran, laporan Excel & PDF A4, serta backup/restore JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
